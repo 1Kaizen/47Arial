@@ -1,4 +1,4 @@
-<h2 align="center">Merhaba Dostum 👋</h2>
+<h2 align="center">Arial 👋</h2>
 <p align="center">
   <a href="https://discord.com/users/852899938799321148" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://www.youtube.com/channel/UCmTehrd0549XbaBUCLQcr8g" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
